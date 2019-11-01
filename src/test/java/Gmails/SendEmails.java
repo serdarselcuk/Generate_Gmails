@@ -21,7 +21,8 @@ public class SendEmails {
                 Subject ="Generating Gmails";
 
 
-        sendEmails(userName,passWord,Receiver,MSG,Subject);
+
+        sendEmails(userName, passWord, Receiver, MSG,Subject);
 
         System.out.println("Send successfully");
 
